@@ -1,0 +1,7 @@
+dom document object modèle
+représentation global d'une page web peut etre manipulé avec js
+est indépendant de tout langage de programmation --> représentation structurelle du document
+apparue en 1995
+dévloppement bibli en 2000
+2010 étendue au client grace a google chrome et sont moteur d'execution v8 qui a permis l'execution du code js ( node js, backbone js )
+

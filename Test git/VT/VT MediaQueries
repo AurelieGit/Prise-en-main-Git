@@ -1,0 +1,8 @@
+technique du css a partir de css3
+utilise la règle @media sous forme de condition : if condition is true { 
+									use this css
+											}
+Permet l'ajout de fonctionnalités comme la mise en page a la taille de l'écran ( responsive )
+Point de rupture --> on détermine a l'avance les différents éléments ( ipad, android ect ) permettant d'entourer plusieurs taille d'écran 
+
+
